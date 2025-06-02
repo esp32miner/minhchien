@@ -36,7 +36,7 @@ banner = f"""
 {Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} TikTok{Fore.WHITE}: \033[38;2;0;220;255m@cauca_3642
 {Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Bán full src{Fore.WHITE}: \033[38;2;0;220;255mLH:0971 633 887
 {Fore.WHITE}════════════════════════════════════════════════════
-""")
+"""
 
 os.system('cls' if os.name== 'nt' else 'clear')
 print(banner)
