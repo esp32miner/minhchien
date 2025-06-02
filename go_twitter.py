@@ -19,24 +19,24 @@ cookie_file = "twitter_cookie.txt"
 banner = f"""
 {Fore.YELLOW}╔══════════════════════════════════════════════════╗
 {Fore.YELLOW}║                                                  {Fore.YELLOW}║
-{Fore.YELLOW}║    \033[38;2;0;120;255m ███╗      ███╗            \033[38;2;0;150;100m███╗     ███╗  {Fore.YELLOW}    ║
-{Fore.YELLOW}║    \033[38;2;0;120;255m ████╗    ████║            \033[38;2;0;160;100m███║     ███║  {Fore.YELLOW}    ║
+{Fore.YELLOW}║    \033[38;2;0;120;255m ███╗      ███╗            \033[38;2;0;150;100m████████████╗  {Fore.YELLOW}    ║
+{Fore.YELLOW}║    \033[38;2;0;120;255m ████╗    ████║            \033[38;2;0;160;100m███╔═════███║  {Fore.YELLOW}    ║
 {Fore.YELLOW}║    \033[38;2;0;140;255m █████╗  █████║            \033[38;2;0;160;100m███║     ███║  {Fore.YELLOW}    ║
 {Fore.YELLOW}║    \033[38;2;0;160;255m ███╔█████╔███║   \033[37m█████╗\033[38;2;0;180;100m   ████████████║  {Fore.YELLOW}    ║
-{Fore.YELLOW}║    \033[38;2;0;180;255m ███║╚███╔╝███║   \033[37m╚════╝\033[38;2;0;200;100m   ███╔═════███║  {Fore.YELLOW}    ║
-{Fore.YELLOW}║    \033[38;2;0;200;255m ███║ ╚══╝ ███║            \033[38;2;0;230;100m███║     ███║  {Fore.YELLOW}    ║
-{Fore.YELLOW}║    \033[38;2;0;220;255m ███║      ███║            \033[38;2;0;230;100m███║     ███║  {Fore.YELLOW}    ║
-{Fore.YELLOW}║    \033[38;2;0;220;255m ╚══╝      ╚══╝            \033[38;2;0;230;100m╚══╝     ╚══╝ {Fore.YELLOW}     ║
+{Fore.YELLOW}║    \033[38;2;0;180;255m ███║╚███╔╝███║   \033[37m╚════╝\033[38;2;0;200;100m   ███╔════════╝ {Fore.YELLOW}     ║
+{Fore.YELLOW}║    \033[38;2;0;200;255m ███║ ╚══╝ ███║            \033[38;2;0;230;100m███║       {Fore.YELLOW}       ║
+{Fore.YELLOW}║    \033[38;2;0;220;255m ███║      ███║            \033[38;2;0;230;100m███║       {Fore.YELLOW}       ║
+{Fore.YELLOW}║    \033[38;2;0;220;255m ╚══╝      ╚══╝            \033[38;2;0;230;100m╚══╝      {Fore.YELLOW}        ║
 {Fore.YELLOW}╚══════════════════════════════════════════════════╝
 {Fore.WHITE}════════════════════════════════════════════════════
-{Fore.RED}  © COPY RIGHT BY M-H    {Fore.WHITE}Phiên Bản: {Fore.YELLOW}GOLIKE TWITTER 
+{Fore.RED}  MP-TOOLS    {Fore.WHITE}Phiên Bản: {Fore.YELLOW}Authorization-GOLIKE-TIKTOK 
 {Fore.WHITE}════════════════════════════════════════════════════
-{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Admin{Fore.WHITE}: \033[38;2;0;220;255mNguyễn Hữu Minh
-{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Nhóm Zalo{Fore.WHITE}: \033[38;2;0;220;255mhttps://zalo.me/g/axtnqv555
-{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} TikTok{Fore.WHITE}: \033[38;2;0;220;255mhttps://www.tiktok.com/@mh_tool_free
-{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Youtube{Fore.WHITE}: \033[38;2;0;220;255mhttps://www.youtube.com/@mh_tool_free
+{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Admin{Fore.WHITE}: \033[38;2;0;220;255mTrần Minh Chiến
+{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Zalo{Fore.WHITE}: \033[38;2;0;220;255mhttps://zalo.me/g/ozvdlz884
+{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} TikTok{Fore.WHITE}: \033[38;2;0;220;255m@cauca_3642
+{Fore.WHITE}[{Fore.RED}⚡{Fore.WHITE}]{Fore.WHITE} Bán full src{Fore.WHITE}: \033[38;2;0;220;255mLH:0971 633 887
 {Fore.WHITE}════════════════════════════════════════════════════
-"""
+""")
 
 os.system('cls' if os.name== 'nt' else 'clear')
 print(banner)
